@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "ALX School"
-nice one
->>>>>>> update_script
+<<<<<<<< HEAD
+echo "ALX"
+
